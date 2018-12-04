@@ -4,7 +4,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-## Conference Papers
+## Conference Publications
 
 <b>[ORACLE: Optimized Radio clAssification through Convolutional neuraL nEtworks](http://lantaoyu.com/publications/GanGradient)</b> <br>
 <b>Kunal Sankhe</b>, Mauro Belgiovine, Fan Zhou, Shamnaz Mohammed Riyaz, Stratis Ioannidis, and Kaushik Roy Chowdhury <br>
@@ -19,7 +19,7 @@ Fan Zhou, M. Yousof Naderi, <b>Kunal Sankhe</b>, and Kaushik Roy Chowdhury <br>
 <i>IEEE International Conference on Computer Communications (INFOCOM)</i>, Honolulu, Hawaii, 2018.
 
 
-## Multi-Agent Systems & Computational Sustainability
+## Journal/Magazine Publications
 
 <b>[Deep Reinforcement Learning for Green Security Games with Real-Time Information](http://lantaoyu.com/publications/RLSGAAAI19)</b><br>
 Yufei Wang, Zheyuan Ryan Shi, <b>Lantao Yu</b>, Yi Wu, Rohit Singh, Lucas Joppa, Fei Fang. <i>The Thirty-Third AAAI Conference on Artificial Intelligence.</i> <b>AAAI 2019</b>.
