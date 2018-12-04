@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <p align="center">
-  <img src="https://lantaoyu.github.io/files/lantaoyu_img.jpg?raw=true" alt="Photo" style="width: 450px;"/> 
+  <img src="https://lantaoyu.github.io/files/KunalSankhe.jpg?raw=true" alt="Photo" style="width: 450px;"/> 
 </p>
 
 * I am a Ph.D student in the [Electrical and Computer Engineering Department](http://www.ece.neu.edu/) at Northeastern University, where I work in the [GENESYS Lab](http://www.genesys-lab.org/) advised by Prof. [Kaushik Chowdhury](http://krc.coe.neu.edu/). 
