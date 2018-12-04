@@ -6,9 +6,9 @@ author_profile: true
 
 ## Conference Papers
 
-<b>[ORACLE: Optimized Radio clAssification through Convolutional neuraL nEtworks](http://lantaoyu.com/publications/GanGradient)</b> <br>
+<b>[ORACLE: Optimized Radio clAssification through Convolutional neuraL nEtworks](http://lantaoyu.com/publications/GanGradient)</b> <br><br>
 <b>Kunal Sankhe</b>, Ufuk Muncuk, M. Yousof Naderi, and Kaushik Roy Chowdhury <br>
-<i> IEEE INFOCOM 2019</i>, Paris, France, May. 2019 (accepted).
+<i> IEEE INFOCOM 2019</i>(accepted).
 
 <b>[Talking When No One is Listening: Piggybacking City-scale IoT Control Signals Over LTE](http://lantaoyu.com/publications/GanGradient)</b> <br>
 <b>Kunal Sankhe</b>, Ufuk Muncuk, M. Yousof Naderi, and Kaushik Roy Chowdhury, accepted in <i> IEEE INFOCOM 2019</i>.
