@@ -12,8 +12,12 @@ redirect_from:
   <img src="https://lantaoyu.github.io/files/lantaoyu_img.jpg?raw=true" alt="Photo" style="width: 450px;"/> 
 </p>
 
-* I am a Ph.D student in the [Computer Science Department](https://cs.stanford.edu/) at [Stanford University](https://www.stanford.edu/). [[Curriculum Vitae]](http://lantaoyu.com/files/lantaoyu_cv.pdf)
-* I received my Bachelor’s Degree in [Shanghai Jiao Tong University](http://en.sjtu.edu.cn/). My undergraduate research advisors are [Prof. Yong Yu](http://apex.sjtu.edu.cn/members/yyu), [Prof. Weinan Zhang](http://wnzhang.net/) and [Prof. Jun Wang](http://web4.cs.ucl.ac.uk/staff/jun.wang/blog/) ([University College London](https://www.ucl.ac.uk/)).
+I am a PhD. student in Electrical Engineering at the University of Washington where I work in the Wireless and Mobile Systems Laboratory advised by Prof. Shyamnath Gollakota.
+
+* I am a Ph.D student in the [Electrical and Computer Engineering Department](http://www.ece.neu.edu/) at Northeastern University, where I work in the GENESYS Lab advised by Prof. Kaushik Chowdhury. 
+
+[[Curriculum Vitae]](http://lantaoyu.com/files/lantaoyu_cv.pdf)
+* I received my masterBachelor’s Degree in [Shanghai Jiao Tong University](http://en.sjtu.edu.cn/). My undergraduate research advisors are [Prof. Yong Yu](http://apex.sjtu.edu.cn/members/yyu), [Prof. Weinan Zhang](http://wnzhang.net/) and [Prof. Jun Wang](http://web4.cs.ucl.ac.uk/staff/jun.wang/blog/) ([University College London](https://www.ucl.ac.uk/)).
 * My research interests lie in the general area of machine learning, particularly in deep representation learning and reinforcement learning, as well as their applications in sequential decision making, generative modeling, natural language understanding and multi-agent systems.
 
 
