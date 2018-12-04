@@ -12,9 +12,9 @@ redirect_from:
   <img src="https://kunalsankhe.github.io/files/KunalSankhe.jpg?raw=true" alt="Photo" style="width: 300px;"/> 
 </p>
 
-* I am a Ph.D student in the [Electrical and Computer Engineering Department](http://www.ece.neu.edu/) at Northeastern University, where I work in the [GENESYS Lab](http://www.genesys-lab.org/) advised by Prof. [Kaushik Chowdhury](http://krc.coe.neu.edu/). 
+* I am a Ph.D student in the [Electrical and Computer Engineering Department](http://www.ece.neu.edu/) at Northeastern University, where I work in the [Next GEneration NEtworks and SYStems Lab](http://www.genesys-lab.org/) advised by Prof. [Kaushik Chowdhury](http://krc.coe.neu.edu/). 
 
-* My research focuses on application of machine learning in wireless technologies, developing algorithms to enable cross-layer communication in IoT platforms, and distributed beamforming for wireless charging. 
+* My research focuses on application of machine learning in wireless technologies, developing algorithms to enable cross-layer communication in IoT platforms and distributed beamforming for wireless charging. 
 
 * I received M.S. degree from [IIIT Hyderabad](https://www.iiit.ac.in/) and Bachelor’s Degree from Mumbai University in Electronics and Communication Engineering. 
 
