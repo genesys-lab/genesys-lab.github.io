@@ -8,11 +8,11 @@ author_profile: true
 
 <b>[ORACLE: Optimized Radio clAssification through Convolutional neuraL nEtworks](http://lantaoyu.com/publications/GanGradient)</b> <br>
 <b>Kunal Sankhe</b>, Mauro Belgiovine, Fan Zhou, Shamnaz Mohammed Riyaz, Stratis Ioannidis, and Kaushik Roy Chowdhury <br>
-<i> IEEE International Conference on Computer Communications (INFOCOM)</i>, Paris, France, 2019. 
+<i>IEEE International Conference on Computer Communications (INFOCOM)</i>, Paris, France, 2019. 
 
 <b>[Talking When No One is Listening: Piggybacking City-scale IoT Control Signals Over LTE](http://lantaoyu.com/publications/GanGradient)</b> <br>
-<b>Kunal Sankhe</b>, Ufuk Muncuk, M. Yousof Naderi, and Kaushik Roy Chowdhury, 
-<i> IEEE INFOCOM 2019</i>, Honolulu, Hawaii, Apr. 2018.
+<b>Kunal Sankhe</b>, Ufuk Muncuk, M. Yousof Naderi, and Kaushik Roy Chowdhury <br>
+<i>IEEE International Conference on Computer Communications (INFOCOM)</i>, Honolulu, Hawaii, 2018.
 
 <b>[Making the Right Connections: Multi-AP Association and Flow Control in 60GHz Band](http://lantaoyu.com/publications/SeqGAN)</b> <br>
 <b>Lantao Yu</b>, Weinan Zhang, Jun Wang, and Yong Yu. <i>The 31st AAAI conference on Artificial Intelligence</i>. <b>AAAI 2017</b>.
