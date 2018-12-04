@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Lantao Yu"
+title                    : "Kunal Sankhe"
 title_separator          : "-"
-name                     : &name "Lantao Yu"
-description              : &description "PhD student, Computer Science Department, Stanford University"
-url                      : https://lantaoyu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Kunal Sankhe"
+description              : &description "PhD student, Electrical and Computer Engineering Department, Northeastern University"
+url                      : https://kunalsankhe.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "LantaoYu/lantaoyu.github.io"
+repository               : "kunalsankhe/kunalsankhe.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -77,13 +77,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Lantao Yu"
+  name             : "Kunal Sankhe"
   avatar           : "lantaoyu.jpg"
-  bio              : "PhD student, Computer Science Department, Stanford University"
-  location         : "Stanford, California"
+  bio              : "PhD student, Electrical and Computer Engineering Department, Northeastern University"
+  location         : "Boston, Massachusetts"
   employer         : 
-  googlescholar    : "https://scholar.google.com/citations?user=Ixg9n-EAAAAJ&hl=en"
-  email            : "lantaoyu@hotmail.com"
+  googlescholar    : "https://scholar.google.com/citations?user=5Bzr6YQAAAAJ&hl=en&oi=ao"
+  email            : "sankhe.ku@husky.neu.edu"
   uri              : 
   bitbucket        :
   codepen          :
@@ -91,12 +91,12 @@ author:
   flickr           :
   facebook         : 
   foursquare       :
-  github           : "LantaoYu"
+  github           : "kunalsankhe"
   google_plus      :
   keybase          :
   instagram        : 
   lastfm           :
-  linkedin         :
+  linkedin         :linkedin.com/in/kunal-sankhe-a942692a
   orcid            : 
   pinterest        :
   soundcloud       :
