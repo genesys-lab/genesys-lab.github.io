@@ -15,13 +15,9 @@ author_profile: true
 <i>IEEE International Conference on Computer Communications (INFOCOM)</i>, Honolulu, Hawaii, 2018.
 
 <b>[Making the Right Connections: Multi-AP Association and Flow Control in 60GHz Band](http://lantaoyu.com/publications/SeqGAN)</b> <br>
-<b>Lantao Yu</b>, Weinan Zhang, Jun Wang, and Yong Yu. <i>The 31st AAAI conference on Artificial Intelligence</i>. <b>AAAI 2017</b>.
+Fan Zhou, M. Yousof Naderi, <b>Kunal Sankhe</b>, and Kaushik Roy Chowdhury <br>
+<i>IEEE International Conference on Computer Communications (INFOCOM)</i>, Honolulu, Hawaii, 2018.
 
-<b>[IRGAN: A Minimax Game for Unifying Generative and Discriminative Information Retrieval Models](http://lantaoyu.com/publications/IRGAN)</b><br>
-Jun Wang, <b>Lantao Yu</b>, Weinan Zhang, Yu Gong, Yinghui Xu, Benyou Wang, Peng Zhang and Dell Zhang. <i>The 40th International ACM SIGIR Conference on Research and Development in Information Retrieval.</i> <b>SIGIR 2017</b>. <b> <span style="color:red">Best Paper Award Honorable Mention</span> </b>
-
-<b>[A Dynamic Attention Deep Model for Article Recommendation by Learning Human Editors’ Demonstration](http://lantaoyu.com/publications/DADM)</b><br>
-<b>Lantao Yu\*</b>, Xuejian Wang\*(equal contribution), Kan Ren, Guanyu Tao, Weinan Zhang, Yong Yu, Jun Wang. <i>The 23rd SIGKDD Conference on Knowledge Discovery and Data Mining.</i> <b>KDD 2017</b>.
 
 ## Multi-Agent Systems & Computational Sustainability
 
