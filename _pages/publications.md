@@ -8,7 +8,7 @@ author_profile: true
 
 <b>[ORACLE: Optimized Radio clAssification through Convolutional neuraL nEtworks](http://lantaoyu.com/publications/GanGradient)</b> <br>
 <b>Kunal Sankhe</b>, Mauro Belgiovine, Fan Zhou, Shamnaz Mohammed Riyaz, Stratis Ioannidis, and Kaushik Roy Chowdhury <br>
-<i> IEEE INFOCOM 2019</i>, Paris, France, May. 2019. (accepted)(accepted).
+<i> IEEE International Conference on Computer Communications (INFOCOM)</i>, Paris, France, 2019. 
 
 <b>[Talking When No One is Listening: Piggybacking City-scale IoT Control Signals Over LTE](http://lantaoyu.com/publications/GanGradient)</b> <br>
 <b>Kunal Sankhe</b>, Ufuk Muncuk, M. Yousof Naderi, and Kaushik Roy Chowdhury, 
