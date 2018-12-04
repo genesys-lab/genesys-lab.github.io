@@ -6,14 +6,15 @@ author_profile: true
 
 ## Conference Papers
 
-<b>[ORACLE: Optimized Radio clAssification through Convolutional neuraL nEtworks](http://lantaoyu.com/publications/GanGradient)</b> <br><br>
-<b>Kunal Sankhe</b>, Ufuk Muncuk, M. Yousof Naderi, and Kaushik Roy Chowdhury <br>
-<i> IEEE INFOCOM 2019</i>(accepted).
+<b>[ORACLE: Optimized Radio clAssification through Convolutional neuraL nEtworks](http://lantaoyu.com/publications/GanGradient)</b> <br>
+<b>Kunal Sankhe</b>, Mauro Belgiovine, Fan Zhou, Shamnaz Mohammed Riyaz, Stratis Ioannidis, and Kaushik Roy Chowdhury <br>
+<i> IEEE INFOCOM 2019</i>, Paris, France, May. 2019. (accepted)(accepted).
 
 <b>[Talking When No One is Listening: Piggybacking City-scale IoT Control Signals Over LTE](http://lantaoyu.com/publications/GanGradient)</b> <br>
-<b>Kunal Sankhe</b>, Ufuk Muncuk, M. Yousof Naderi, and Kaushik Roy Chowdhury, accepted in <i> IEEE INFOCOM 2019</i>.
+<b>Kunal Sankhe</b>, Ufuk Muncuk, M. Yousof Naderi, and Kaushik Roy Chowdhury, 
+<i> IEEE INFOCOM 2019</i>, Honolulu, Hawaii, Apr. 2018.
 
-<b>[SeqGAN: Sequence Generative Adversarial Nets with Policy Gradient](http://lantaoyu.com/publications/SeqGAN)</b> <br>
+<b>[Making the Right Connections: Multi-AP Association and Flow Control in 60GHz Band](http://lantaoyu.com/publications/SeqGAN)</b> <br>
 <b>Lantao Yu</b>, Weinan Zhang, Jun Wang, and Yong Yu. <i>The 31st AAAI conference on Artificial Intelligence</i>. <b>AAAI 2017</b>.
 
 <b>[IRGAN: A Minimax Game for Unifying Generative and Discriminative Information Retrieval Models](http://lantaoyu.com/publications/IRGAN)</b><br>
