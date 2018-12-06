@@ -16,7 +16,20 @@ author_profile: true
 
 <b>[Making the Right Connections: Multi-AP Association and Flow Control in 60GHz Band](http://lantaoyu.com/publications/SeqGAN)</b> <br>
 Fan Zhou, M. Yousof Naderi, <b>Kunal Sankhe</b>, and Kaushik Roy Chowdhury <br>
-<i>IEEE International Conference on Computer Communications (INFOCOM)</i>, Honolulu, Hawaii, 2018.
+<i>IEEE International Conference on Computer Communications (INFOCOM)</i>, Honolulu, Hawaii, 2015.
+
+<b>[Machine Learning Based Cooperative Relay Selection in Virtual MIMO](http://lantaoyu.com/publications/SeqGAN)</b> <br>
+<b> Kunal Sankhe <b>, Chandan Pradhan, Sumit Kumar, and Garimella Ramamurthy <br>
+<i>IEEE Wireless Telecommunications Symposium (WTS)</i> 2015.
+
+<b>[Revamp of eNodeB for 5G Networks: Detracting Spectrum Scarcity](http://lantaoyu.com/publications/SeqGAN)</b> <br>
+Chandan Pradhan, <b> Kunal Sankhe <b>, Sumit Kumar, and Garimella Ramamurthy <br>
+<i>IEEE Wireless Telecommunications Symposium (WTS)</i> 2015.
+
+<b>[Cost effective restoration of wireless connectivity in disaster hit areas using OpenBTS](http://lantaoyu.com/publications/SeqGAN)</b> <br>
+<b> Kunal Sankhe <b>, Chandan Pradhan, Sumit Kumar, and Garimella Ramamurthy <br>
+<i>IEEE IEEE India Conference (INDICON)</i>, Pune, India, 2014.
+
 
 
 ## Journal/Magazine Publications
