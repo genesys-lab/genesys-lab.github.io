@@ -4,7 +4,7 @@ title: "Contact"
 permalink: /contact/
 author_profile: true
 ---
-Computer Science Department, Stanford University<br>
-Gates 158, 353 Serra Mall, Stanford, CA 94305<br>
-Email: lantaoyu [at] cs.stanford.edu
+Electrical and Computer Engineering Department, Northeastern University<br>
+Interdisciplinary Science & Engineering Complex (ISEC), 805 Columbus Ave, Boston, MA 02120, USA.<br>
+Email: sankhe.ku [at] husky.neu.edu
 
