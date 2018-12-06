@@ -28,9 +28,11 @@ Chandan Pradhan, <b> Kunal Sankhe </b>, Sumit Kumar, and Garimella Ramamurthy <b
 
 <b>[Cost effective restoration of wireless connectivity in disaster hit areas using OpenBTS](http://lantaoyu.com/publications/SeqGAN)</b> <br>
 <b> Kunal Sankhe </b>, Chandan Pradhan, Sumit Kumar, and Garimella Ramamurthy <br>
-<i>IEEE IEEE India Conference (INDICON)</i>, Pune, India, 2014.
+<i>IEEE India Conference (INDICON)</i>, Pune, India, 2014.
 
-
+<b>[Cognitive base station design for efficient spectrum utilization in cellular network](http://lantaoyu.com/publications/SeqGAN)</b> <br>
+Chandan Pradhan, <b> Kunal Sankhe </b>, Sumit Kumar, and Garimella Ramamurthy <br>
+<i>IEEE Wireless and Optical Communications Networks (WOCN)</i> 2014.
 
 ## Journal/Magazine Publications
 
