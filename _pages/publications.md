@@ -54,5 +54,5 @@ Angela Sara Cacciapuoti, <b>Kunal Sankhe </b>, Marcello Caleffi, and Kaushik Roy
 
 ## Book Chapter
 <b>[Cognitive Radio Networks: Issues and Solutions](http://lantaoyu.com/publications/RLSGAAAI19)</b><br>
-Deepti Singhal, Chandan Pradhan, <b> Kunal Sankhe </b>, and Garimella Ramamurthy
+Deepti Singhal, Chandan Pradhan, <b> Kunal Sankhe </b>, and Garimella Ramamurthy <br>
 <i>Handbook of Research on Self-Organized Mobile Communication Technologies</i>, IGI Global 2015
