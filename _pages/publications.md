@@ -41,10 +41,10 @@ Chandan Pradhan, <b> Kunal Sankhe </b>, Sumit Kumar, and Garimella Ramamurthy <b
 ## Journal/Magazine Publications
 
 <b>[Deep Learning Convolutional Neural Networks for Radio Identification](http://lantaoyu.com/publications/RLSGAAAI19)</b><br>
-Shamnaz Riyaz, Kunal Sankhe, Stratis Ioannidis, and Kaushik Chowdhury <i>The Thirty-Third AAAI Conference on Artificial Intelligence.</i> <i>IEEE Communications Magazine</i>, vol.  56, Issue no. 9, September, 2018.
+Shamnaz Riyaz, <b>Kunal Sankhe </b>, Stratis Ioannidis, and Kaushik Chowdhury <i>The Thirty-Third AAAI Conference on Artificial Intelligence.</i> <i>IEEE Communications Magazine</i>, vol.  56, Issue no. 9, September, 2018.
 
 <b>[Beyond 5G: THz-based Medium Access Protocol for Mobile Heterogeneous Networks](http://lantaoyu.com/publications/MA)</b><br>
-Angela Sara Cacciapuoti, Kunal Sankhe, Marcello Caleffi, and Kaushik Roy Chowdhury. <br>
+Angela Sara Cacciapuoti, <b>Kunal Sankhe </b>, Marcello Caleffi, and Kaushik Roy Chowdhury. <br>
 <i>IEEE Communications Magazine</i>, vol. 56, Issue no. 6, June 2018.
 
 <b>[Distributed Spatial Modulation with Dynamic Frequency Allocation](http://lantaoyu.com/publications/COMPASS18)</b><br>
