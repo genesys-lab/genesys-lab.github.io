@@ -22,9 +22,13 @@ Fan Zhou, M. Yousof Naderi, <b>Kunal Sankhe</b>, and Kaushik Roy Chowdhury <br>
 <b> Kunal Sankhe </b>, Chandan Pradhan, Sumit Kumar, and Garimella Ramamurthy <br>
 <i>IEEE WTS</i>, New York, USA, 2015.
 
-<b>[Revamp of eNodeB for 5G Networks: Detracting Spectrum Scarcity](http://lantaoyu.com/publications/SeqGAN)</b> <br>
+<b>[Full-Duplex eNodeB and UE Design for 5G Networks](http://lantaoyu.com/publications/SeqGAN)</b> <br>
 Chandan Pradhan, <b> Kunal Sankhe </b>, Sumit Kumar, and Garimella Ramamurthy <br>
 <i>IEEE WTS</i>, New York, USA, 2015.
+
+<b>[Revamp of eNodeB for 5G Networks: Detracting Spectrum Scarcity](http://lantaoyu.com/publications/SeqGAN)</b> <br>
+Chandan Pradhan, <b> Kunal Sankhe </b>, Sumit Kumar, and Garimella Ramamurthy <br>
+<i>IEEE CCNC</i>, Las Vegas, USA, 2015.
 
 <b>[Cost effective restoration of wireless connectivity in disaster hit areas using OpenBTS](http://lantaoyu.com/publications/SeqGAN)</b> <br>
 <b> Kunal Sankhe </b>, Chandan Pradhan, Sumit Kumar, and Garimella Ramamurthy <br>
