@@ -46,8 +46,9 @@ S. Riyaz, K. Sankhe, S. Ioannidis, and K. R. Chowdhury <i>The Thirty-Third AAAI 
 <b>[A Study of AI Population Dynamics with Million-agent Reinforcement Learning](http://lantaoyu.com/publications/MA)</b><br>
 <b>Lantao Yu\*</b>, Yaodong Yang\*, Yiwei Bai\*(equal contribution), Jun Wang, Weinan Zhang, Ying Wen, Yong Yu. <i>The 17th International Conference on Autonomous Agents and Multi-Agent Systems.</i> <b>AAMAS 2018</b>.
 
-<b>[Exploiting Real-World Data and Human Knowledge for Predicting Wildlife Poaching](http://lantaoyu.com/publications/COMPASS18)</b><br>
-Swaminathan Gurumurthy, <b>Lantao Yu</b>, Chenyan Zhang, Yongchao Jin, Weiping Li, Xiaodong Zhang, Fei Fang. <i>ACM SIGCAS Conference on Computing and Sustainable Societies.</i> <b>COMPASS 2018</b>.
+<b>[Distributed Spatial Modulation with Dynamic Frequency Allocation](http://lantaoyu.com/publications/COMPASS18)</b><br>
+<b>Kunal Sankhe </b>, Sachin Chaudhari, and Garimella Ramamurthy <br>
+<i>Physical Communication (Elsevier) Journal</i>, vol. 23, pp. 65-75, June 2017.
 
 <b>[Deep Reinforcement Learning for Green Security Game with Online Information](http://lantaoyu.com/publications/RLSG)</b><br>
 <b>Lantao Yu</b>, Yi Wu, Rohit Singh, Lucas Joppa and Fei Fang. <i>AAAI-18 Artificial Intelligence for Imperfect-Information Games Workshop.</i>
