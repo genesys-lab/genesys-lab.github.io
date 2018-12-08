@@ -41,14 +41,17 @@ Chandan Pradhan, <b> Kunal Sankhe </b>, Sumit Kumar, and Garimella Ramamurthy <b
 ## Journal/Magazine Publications
 
 <b>[Deep Learning Convolutional Neural Networks for Radio Identification](http://lantaoyu.com/publications/RLSGAAAI19)</b><br>
-S. Riyaz, K. Sankhe, S. Ioannidis, and K. R. Chowdhury <i>The Thirty-Third AAAI Conference on Artificial Intelligence.</i> <b>AAAI 2019</b>.
+Shamnaz Riyaz, Kunal Sankhe, Stratis Ioannidis, and Kaushik Chowdhury <i>The Thirty-Third AAAI Conference on Artificial Intelligence.</i> <i>IEEE Communications Magazine</i>, vol.  56, Issue no. 9, September, 2018.
 
-<b>[A Study of AI Population Dynamics with Million-agent Reinforcement Learning](http://lantaoyu.com/publications/MA)</b><br>
-<b>Lantao Yu\*</b>, Yaodong Yang\*, Yiwei Bai\*(equal contribution), Jun Wang, Weinan Zhang, Ying Wen, Yong Yu. <i>The 17th International Conference on Autonomous Agents and Multi-Agent Systems.</i> <b>AAMAS 2018</b>.
+<b>[Beyond 5G: THz-based Medium Access Protocol for Mobile Heterogeneous Networks](http://lantaoyu.com/publications/MA)</b><br>
+Angela Sara Cacciapuoti, Kunal Sankhe, Marcello Caleffi, and Kaushik Roy Chowdhury. <br>
+<i>IEEE Communications Magazine</i>, vol. 56, Issue no. 6, June 2018.
 
 <b>[Distributed Spatial Modulation with Dynamic Frequency Allocation](http://lantaoyu.com/publications/COMPASS18)</b><br>
 <b>Kunal Sankhe </b>, Sachin Chaudhari, and Garimella Ramamurthy <br>
 <i>Physical Communication (Elsevier) Journal</i>, vol. 23, pp. 65-75, June 2017.
 
-<b>[Deep Reinforcement Learning for Green Security Game with Online Information](http://lantaoyu.com/publications/RLSG)</b><br>
-<b>Lantao Yu</b>, Yi Wu, Rohit Singh, Lucas Joppa and Fei Fang. <i>AAAI-18 Artificial Intelligence for Imperfect-Information Games Workshop.</i>
+## Book Chapter
+<b>[Cognitive Radio Networks: Issues and Solutions](http://lantaoyu.com/publications/RLSGAAAI19)</b><br>
+Deepti Singhal, Chandan Pradhan, <b> Kunal Sankhe </b>, and Garimella Ramamurthy
+<i>Handbook of Research on Self-Organized Mobile Communication Technologies</i>, IGI Global 2015
