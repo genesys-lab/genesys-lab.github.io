@@ -14,7 +14,7 @@ This dataset was used for the "Optimized Radio clAssification through Convolutio
 
 Dataset Download: <a href=""> Click here </a>
 
-<--!Impairment Shift Keying: Covert Signaling by Deep Learning of Controlled Radio Imperfections-->
+
 
 
 
