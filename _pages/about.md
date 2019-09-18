@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "About me"
-excerpt: "About me"
+title: "About us"
+excerpt: "About us"
 author_profile: true
 redirect_from: 
   - /about/
@@ -12,14 +12,17 @@ redirect_from:
   <img src="https://kunalsankhe.github.io/files/KunalSankhe.jpg?raw=true" alt="Photo" style="width: 300px;"/> 
 </p>
 
-* I am a Ph.D student in the [Electrical and Computer Engineering Department](http://www.ece.neu.edu/) at Northeastern University, where I work in the [Next GEneration NEtworks and SYStems Lab](http://www.genesys-lab.org/) advised by Prof. [Kaushik Chowdhury](http://krc.coe.neu.edu/). 
+* We are [Next GEneration NEtworks and SYStems Lab](http://www.genesys-lab.org/), Machine Learning group, in the [Electrical and Computer Engineering Department](http://www.ece.neu.edu/) at Northeastern University. 
 
-* My research focuses on application of machine learning in wireless technologies, developing algorithms to enable cross-layer communication in IoT platforms and distributed beamforming for wireless charging. 
+* Our research focuses on application of machine learning in wireless technologies. 
 
-* I received M.S. degree from [IIIT Hyderabad](https://www.iiit.ac.in/) and Bachelor’s Degree from Mumbai University in Electronics and Communication Engineering. 
+* 
 
 
 
 # Recent News
+* November 30, 2018. Our [paper](http://lantaoyu.com/publications/RLSGAAAI19) got accepted in DySpan 2019.
+* November 30, 2018. Our [paper](http://lantaoyu.com/publications/RLSGAAAI19) got accepted in MILCOM 2019.
 * November 30, 2018. Our [paper](http://lantaoyu.com/publications/RLSGAAAI19) got accepted in INFOCOM 2019.
+
 
