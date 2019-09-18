@@ -1,0 +1,52 @@
+---
+title: "DeepRadioID: Real-Time Channel-Resilient Optimization of Deep Learning-based Radio Fingerprinting Algorithms"
+collection: publications
+permalink: /publications/Mobihoc2019
+venue: "ACM Intl. Symposium on Mobile Ad Hoc Networking and Computing (ACM MobiHoc), Catania, Italy, July 2019"
+date: 2019-7-2
+citation: 'Swaminathan Gurumurthy, <b>Lantao Yu</b>, Chenyan Zhang, Yongchao Jin, Weiping Li, Xiaodong Zhang, Fei Fang. <i>ACM SIGCAS Conference on Computing and Sustainable Societies.</i> <b>COMPASS 2018</b>.'
+---
+[[PDF]](http://krc.coe.neu.edu/sites/krc.coe.neu.edu/files/papers/Mobihoc2019.pdf)
+
+## Abstract
+<br>A core security challenge for the Internet of Things is to devise re-
+liable and energy-efficient authentication techniques. Radio finger-
+printing addresses this problem by leveraging the unique hardware-
+level imperfections imposed on the received wireless signal by
+the transmitter’s radio circuitry, thus avoiding energy-expensive
+cryptography at the transmitter’s side. Most of existing approaches
+utilize hand-tailored protocol-specific feature extraction techniques,
+which can identify devices operating under a pre-defined wireless
+protocol only and are thus not amenable to fingerprint the multi-
+tude of wireless devices currently available in the IoT. Conversely,
+by mapping inputs onto a very large feature space, deep learning
+algorithms can be trained to fingerprint large populations of devices
+operating under any wireless standard. 
+<br>One of the most crucial challenges in radio fingerprinting is
+to counteract the action of the wireless channel, which decreases
+fingerprinting accuracy significantly by disrupting hardware im-
+pairments. On the other hand, due to their sheer size, deep learning
+algorithms are hardly re-trainable in real-time. Another aspect that
+is yet to be investigated is whether an adversary can successfully
+impersonate another device’s fingerprint. To address these key is-
+sues, this paper proposes DeepRadioID, a system to optimize the
+accuracy of deep-learning-based radio fingerprinting algorithms
+without retraining the underlying deep learning model. The key intu-
+ition is that through the application of a carefully-optimized digital
+finite input response filter (FIR) at the transmitter’s side, we can ap-
+ply tiny modifications to the waveform to strengthen its fingerprint according to the current channel conditions. We mathematically
+formulate the Waveform Optimization Problem (WOP) as the prob-
+lem of finding, for a given trained neural network, the optimum FIR
+to be used by the transmitter to improve its current fingerprinting
+accuracy. Moreover, since the FIR is tailored to the specific device’s
+hardware imperfections, we show that an adversary will not be
+able to use the FIR to imitate a legitimate device’s fingerprint.
+<br>We extensively evaluate DeepRadioID on a experimental testbed
+of 20 nominally-identical software-defined radios, as well as on two
+datasets made up by 500 ADS-B devices and by 500 WiFi devices
+provided by the DARPA RFMLS program. Experimental results
+show that DeepRadioID (i) increases fingerprinting accuracy by
+about 35%, 50% and 58% on the three scenarios considered; (ii)
+decreases an adversary’s accuracy by about 54% when trying to
+imitate other device’s fingerprints by using their filters; (iii) achieves
+27% improvement over the state of the art on a 100-device dataset.
