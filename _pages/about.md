@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-<p align="center">
+<!--<p align="center">
   <img src="https://kunalsankhe.github.io/files/KunalSankhe.jpg?raw=true" alt="Photo" style="width: 300px;"/> 
-</p>
+</p> -->
 
 * We are [Next GEneration NEtworks and SYStems Lab](http://www.genesys-lab.org/), Machine Learning group, in the [Electrical and Computer Engineering Department](http://www.ece.neu.edu/) at Northeastern University. 
 
