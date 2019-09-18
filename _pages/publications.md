@@ -6,6 +6,13 @@ author_profile: true
 
 ## Conference Publications
 
+<b>[Impairment Shift Keying: Covert Signaling by Deep Learning of Controlled Radio Imperfections](http://lantaoyu.com/publications/GanGradient)</b> <br>
+K. Sankhe, F. Restuccia, S. D’Oro, T. Jian, Z. Wang, A. Al-Shawabka, J. Dy, T. Melodia, S. Ioannidis, and K. R. Chowdhury <br>
+<i>IEEE MILCOM'19</i>, Virginia, USA, Nov 2019. 
+
+
+
+
 <b>[ORACLE: Optimized Radio clAssification through Convolutional neuraL nEtworks](http://lantaoyu.com/publications/GanGradient)</b> <br>
 <b>Kunal Sankhe</b>, Mauro Belgiovine, Fan Zhou, Shamnaz Mohammed Riyaz, Stratis Ioannidis, and Kaushik Roy Chowdhury <br>
 <i>IEEE INFOCOM'19</i>, Paris, France, May 2019. 
