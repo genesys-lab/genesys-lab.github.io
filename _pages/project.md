@@ -12,10 +12,5 @@ author_profile: true
 
 
 
-## Journal/Magazine Publications
-
-<b>[Deep Learning Convolutional Neural Networks for Radio Identification](http://lantaoyu.com/publications/RLSGAAAI19)</b><br>
-Shamnaz Riyaz, <b>Kunal Sankhe </b>, Stratis Ioannidis, and Kaushik Chowdhury <br>
-<i>IEEE Communications Magazine</i>, vol.  56, Issue no. 9, September, 2018.
 
 
