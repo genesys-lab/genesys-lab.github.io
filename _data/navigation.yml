@@ -2,6 +2,9 @@
 main:
   - title: "CV/Bio"
     url: /cv/
+    
+  - title: "Projects"
+    url: /project/
 
   - title: "Publications"
     url: /publications/
@@ -18,8 +21,8 @@ main:
   # - title: "Portfolio"
   #   url: /portfolio/
         
-  - title: "Blogs"
-    url: /year-archive/
+  #- title: "Blogs"
+  #  url: /year-archive/
     
   - title: "Contact"
     url: /contact/  
